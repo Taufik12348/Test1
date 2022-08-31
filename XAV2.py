@@ -21,8 +21,8 @@ print("""\033[91m
 
 username = str(input("\033[94m[XAV2] \033[93mUsername:"))
 password = str(input("\033[94m[XAV2] \033[93mPassword:"))
-if password == "Aurasayang" and username == "Aurasayang":
-    print ("Telah Masuk Sebagai Aura")
+if password == "Franklin" and username == "Franklin":
+    print ("Telah Masuk Sebagai Franklin")
     time.sleep(2)
 
 else:
